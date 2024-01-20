@@ -1,0 +1,20 @@
+.div_1 {
+background-color:#242532;
+color:white;
+width:20%;
+float:left;
+}
+
+.div_2 {
+background-color:aquamarine;
+color:black;
+width:60%;
+float:right;
+}
+
+.div_3 {
+background-color:tomato;
+color:yellow;
+width:20%;
+float:right;
+}
